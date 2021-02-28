@@ -1,0 +1,36 @@
+.widget-container{
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgba(57, 202, 244, 0.25);
+    border-radius: 1rem;
+    color: #ddd;
+    box-shadow: 0 0 10px rgba(5, 103, 156);
+}
+
+.weather-header{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.stats{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.temperature-holder-item{
+    margin: 1rem;
+}
+
+.temperature-holder{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 0.5rem;
+}
+
+@media screen and (max-width: 768px){
+    .widget-container{
+        flex-basis: 80%;
+    }
+}
