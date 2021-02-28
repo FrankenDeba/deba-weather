@@ -1,3 +1,10 @@
+# To Run This App --->
+
+Clone the repo, then do npm install,then npm start.
+All time is according to indian standard time.
+Suggestion is working, but for that you have to write atleast 4 letters as input after that suggestions will appear
+if any problem arrives, call 8116871833
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
