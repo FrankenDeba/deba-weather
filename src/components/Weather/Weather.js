@@ -9,7 +9,6 @@ import Widget from "../Widget/Widget";
 import Loader from "../Loader/Loader";
 
 function Weather() {
-  console.log("bal");
   const [lat, setLat] = useState();
   const [long, setLong] = useState();
   const [weatherDataDaily, setWeatherDataDaily] = useState();
