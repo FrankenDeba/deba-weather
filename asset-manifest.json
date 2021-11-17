@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dochipo-weather/static/css/main.404f8a29.chunk.css",
+    "main.js": "/dochipo-weather/static/js/main.cc97cd10.chunk.js",
+    "main.js.map": "/dochipo-weather/static/js/main.cc97cd10.chunk.js.map",
+    "runtime-main.js": "/dochipo-weather/static/js/runtime-main.e12954a3.js",
+    "runtime-main.js.map": "/dochipo-weather/static/js/runtime-main.e12954a3.js.map",
+    "static/css/2.2af2ebe2.chunk.css": "/dochipo-weather/static/css/2.2af2ebe2.chunk.css",
+    "static/js/2.d7f01447.chunk.js": "/dochipo-weather/static/js/2.d7f01447.chunk.js",
+    "static/js/2.d7f01447.chunk.js.map": "/dochipo-weather/static/js/2.d7f01447.chunk.js.map",
+    "static/js/3.299e49df.chunk.js": "/dochipo-weather/static/js/3.299e49df.chunk.js",
+    "static/js/3.299e49df.chunk.js.map": "/dochipo-weather/static/js/3.299e49df.chunk.js.map",
+    "index.html": "/dochipo-weather/index.html",
+    "static/css/2.2af2ebe2.chunk.css.map": "/dochipo-weather/static/css/2.2af2ebe2.chunk.css.map",
+    "static/css/main.404f8a29.chunk.css.map": "/dochipo-weather/static/css/main.404f8a29.chunk.css.map",
+    "static/js/2.d7f01447.chunk.js.LICENSE.txt": "/dochipo-weather/static/js/2.d7f01447.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e12954a3.js",
+    "static/css/2.2af2ebe2.chunk.css",
+    "static/js/2.d7f01447.chunk.js",
+    "static/css/main.404f8a29.chunk.css",
+    "static/js/main.cc97cd10.chunk.js"
+  ]
+}
