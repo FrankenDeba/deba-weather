@@ -12,6 +12,8 @@
     "leaflet": "^1.7.1",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
+    "netlify": "^8.0.4",
+    "netlify-cli": "^6.14.25",
     "react": "^17.0.1",
     "react-chartjs-2": "^2.11.1",
     "react-dom": "^17.0.1",
@@ -26,7 +28,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "REACT_APP_CI_DEPLOY=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
